@@ -6,10 +6,7 @@ The main objective of the project is to design an dynamic, responsive website an
 ## Flow Of Project
 
 Browser-> Employee Controller <-> Employee Service <->Employee Repository <-> MySQL
-                |
-              LocalHost:8080
-         Employee Management System
-
+              
 ## Requirements
  1.Spring io 2. JDK8 3.Tomcat 4.MySQL DataBase
  
